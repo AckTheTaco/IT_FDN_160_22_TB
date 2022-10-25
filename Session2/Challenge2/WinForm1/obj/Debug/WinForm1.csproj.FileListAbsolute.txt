@@ -1,0 +1,8 @@
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\bin\Debug\WinForm1.exe.config
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\bin\Debug\WinForm1.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\bin\Debug\WinForm1.pdb
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\obj\Debug\WinForm1.csproj.AssemblyReference.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\obj\Debug\WinForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\obj\Debug\WinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\obj\Debug\WinForm1.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session2\Challenge2\WinForm1\obj\Debug\WinForm1.pdb

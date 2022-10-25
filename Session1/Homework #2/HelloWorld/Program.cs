@@ -10,7 +10,7 @@ class Program
         // Formatting();
         // Conversions();
         // Poly();
-        // Homework3();
+        Homework3();
     }
 
 
@@ -107,7 +107,23 @@ class Program
         minutes = (input % secPerHour) / secPerMinute;
         seconds = (input % secPerMinute);
 
-        Console.WriteLine("{0} day(s), {1} hour(s), {2} minute(s), {3} second(s)", days, hours, minutes, seconds);
+        if (days > 0)
+        {
+            Console.WriteLine("{0} day(s), {1} hour(s), {2} minute(s), {3} second(s)", days, hours, minutes, seconds);
+        }
+        else if (hours > 0)
+        {
+            Console.WriteLine("{1} hour(s), {2} minute(s), {3} second(s)", days, hours, minutes, seconds);
+        }
+        else if (minutes > 0)
+        {
+            Console.WriteLine("{2} minute(s), {3} second(s)", days, hours, minutes, seconds);
+        }
+        else
+        {
+            Console.WriteLine("{3} second(s)", days, hours, minutes, seconds);
+        }
         Console.ReadLine();
+
     }
 }
