@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Xml.Linq;
 
 enum EMonthNames
@@ -300,10 +301,19 @@ class Ascii
 
             total += digit;
 
-            Console.WriteLine(digit);
+            // Console.WriteLine(digit); Shows what it is reading.
         }
 
         Console.WriteLine(total);
+
+        string reverse;
+
+        for (int i = 0; i < input.Length; i++)
+        {
+            Console.WriteLine(input[(input.Length-i)]);
+        }
+
+
 
        
 
