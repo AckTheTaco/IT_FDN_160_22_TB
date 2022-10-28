@@ -1,0 +1,8 @@
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\obj\Debug\Session4_Work.csproj.AssemblyReference.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\obj\Debug\Session4_Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\obj\Debug\Session4_Work.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\bin\Debug\Session4_Work.exe.config
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\bin\Debug\Session4_Work.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\bin\Debug\Session4_Work.pdb
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\obj\Debug\Session4_Work.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session4\Session4_Work\obj\Debug\Session4_Work.pdb
