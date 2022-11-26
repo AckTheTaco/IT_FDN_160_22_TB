@@ -1,0 +1,8 @@
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\bin\Debug\InventoryFinal.exe.config
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\bin\Debug\InventoryFinal.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\bin\Debug\InventoryFinal.pdb
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\obj\Debug\InventoryFinal.csproj.AssemblyReference.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\obj\Debug\InventoryFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\obj\Debug\InventoryFinal.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\obj\Debug\InventoryFinal.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\InventoryFinal\InventoryFinal\obj\Debug\InventoryFinal.pdb
