@@ -1,0 +1,8 @@
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\bin\Debug\Session 8 Labs.exe.config
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\bin\Debug\Session 8 Labs.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\bin\Debug\Session 8 Labs.pdb
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\obj\Debug\Session 8 Labs.csproj.AssemblyReference.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\obj\Debug\Session 8 Labs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\obj\Debug\Session 8 Labs.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\obj\Debug\Session 8 Labs.exe
+C:\Users\Tonny\source\repos\IT-FDN-160-2022\Session 8\Session 8 Labs\obj\Debug\Session 8 Labs.pdb
